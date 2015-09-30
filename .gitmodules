@@ -151,3 +151,6 @@
 [submodule "mods/3darmor"]
 	path = mods/3darmor
 	url = https://github.com/stujones11/minetest-3d_armor.git
+[submodule "mods/travelnet"]
+	path = mods/travelnet
+	url = https://github.com/Sokomine/travelnet.git
