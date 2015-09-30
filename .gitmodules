@@ -160,3 +160,18 @@
 [submodule "mods/unifieddyes"]
 	path = mods/unifieddyes
 	url = https://github.com/VanessaE/unifieddyes.git
+[submodule "mods/mobs_water"]
+	path = mods/mobs_water
+	url = https://github.com/blert2112/mobs_water.git
+[submodule "mods/mobs_sky"]
+	path = mods/mobs_sky
+	url = https://github.com/blert2112/mobs_sky.git
+[submodule "mods/castles"]
+	path = mods/castles
+	url = https://github.com/Philipbenr/castles.git
+[submodule "mods/sea"]
+	path = mods/sea
+	url = https://github.com/HybridDog/sea.git
+[submodule "mods/goblins"]
+	path = mods/goblins
+	url = https://github.com/FreeLikeGNU/goblins.git
