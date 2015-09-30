@@ -157,3 +157,6 @@
 [submodule "mods/windmill_large"]
 	path = mods/windmill_large
 	url = https://github.com/Sokomine/windmill_large.git
+[submodule "mods/unifieddyes"]
+	path = mods/unifieddyes
+	url = https://github.com/VanessaE/unifieddyes.git
