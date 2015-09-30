@@ -154,3 +154,6 @@
 [submodule "mods/travelnet"]
 	path = mods/travelnet
 	url = https://github.com/Sokomine/travelnet.git
+[submodule "mods/windmill_large"]
+	path = mods/windmill_large
+	url = https://github.com/Sokomine/windmill_large.git
