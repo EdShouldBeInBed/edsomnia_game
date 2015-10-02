@@ -175,3 +175,6 @@
 [submodule "mods/goblins"]
 	path = mods/goblins
 	url = https://github.com/FreeLikeGNU/goblins.git
+[submodule "mods/glooptest"]
+	path = mods/glooptest
+	url = https://github.com/EdShouldBeInBed/vanglooptest
