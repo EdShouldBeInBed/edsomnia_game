@@ -181,3 +181,6 @@
 [submodule "mods/MinetestAmbience"]
 	path = mods/MinetestAmbience
 	url = https://github.com/Neuromancer56/MinetestAmbience/
+[submodule "mods/castle"]
+	path = mods/castle
+	url = https://github.com/tenplus1/castle
