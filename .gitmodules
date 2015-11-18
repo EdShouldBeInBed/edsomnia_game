@@ -178,3 +178,6 @@
 [submodule "mods/glooptest"]
 	path = mods/glooptest
 	url = https://github.com/EdShouldBeInBed/vanglooptest
+[submodule "mods/MinetestAmbience"]
+	path = mods/MinetestAmbience
+	url = https://github.com/Neuromancer56/MinetestAmbience/
