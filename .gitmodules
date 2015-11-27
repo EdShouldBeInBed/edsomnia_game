@@ -184,3 +184,6 @@
 [submodule "mods/castle"]
 	path = mods/castle
 	url = https://github.com/tenplus1/castle
+[submodule "mods/sponge"]
+	path = mods/sponge
+	url = https://github.com/DonBatman/mysponge
