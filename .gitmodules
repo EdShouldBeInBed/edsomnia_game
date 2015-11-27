@@ -187,3 +187,6 @@
 [submodule "mods/sponge"]
 	path = mods/sponge
 	url = https://github.com/DonBatman/mysponge
+[submodule "mods/mysponge"]
+	path = mods/mysponge
+	url = https://github.com/DonBatman/mysponge
